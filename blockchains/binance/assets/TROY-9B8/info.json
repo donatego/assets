@@ -3,7 +3,7 @@
     "symbol": "TROY",
     "type": "BEP2",
     "decimals": 8,
-    "description": " TROY BEP2 (TROY) is a token on Binance Chain issued by Binance.",
+    "description": "TROY BEP2 (TROY) is a token on Binance Chain issued by Binance.",
     "website": "https://troytrade.com",
     "explorer": "https://explorer.binance.org/asset/TROY-9B8",
     "status": "active",
